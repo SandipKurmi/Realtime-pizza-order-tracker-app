@@ -5,7 +5,11 @@
         -ejs express-ejs-layouts
     -Dev dependancies
         -nodemon
-[.] Create Express server - Create a server.js file
+[$] Create Express server - Create a server.js file
+[$] git setup and frist commit
+[$] Install laravel mix
+    - setup js and scss
+[.] install tailwind css
 [.] Create Home page using Html and Css
     -include tailwinds css
 [.] Create cart paje
@@ -14,4 +18,7 @@
 [.] Create Order controller and link it in server.js
 [.] Create Order view with table for customer and admin
 [.] Create Order single page with status
+[.] Create login paje with routes
+[.] Build register crud
+
 
