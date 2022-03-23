@@ -9,7 +9,7 @@
 [$] git setup and frist commit
 [$] Install laravel mix
     - setup js and scss
-[.] install tailwind css
+[$] install tailwind css
 [.] Create Home page using Html and Css
     -include tailwinds css
 [.] Create cart paje
