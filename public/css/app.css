@@ -22,13 +22,6 @@ section.hero {
   background: #f8f8f8;
 }
 
-section button {
-  transition: all 0.3s ease-in-out;
-}
-section button:hover {
-  color: #fff;
-}
-
 .size {
   background: #f8f8f8;
 }
@@ -42,4 +35,30 @@ section button:hover {
   background: #FE5F1E;
   border-color: #fff;
   color: #fff;
+}
+
+.btn-primary {
+  transition: all 0.3s ease-in-out;
+  background: #FE5F1E;
+}
+.btn-primary:hover {
+  background: #b23301;
+}
+
+section.cart {
+  background: #f8f8f8;
+}
+section.cart .amount {
+  color: #FE5F1E;
+}
+
+section.login {
+  background: #f8f8f8;
+  min-height: calc(100vh - 86px);
+}
+section.login a {
+  color: #FE5F1E;
+}
+section.login a:hover {
+  color: #b23301;
 }
