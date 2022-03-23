@@ -10,11 +10,18 @@
 [$] Install laravel mix
     - setup js and scss
 [$] install tailwind css
-[.] Create Home page using Html and Css
+[$] Create Home page using Html and Css
     -include tailwinds css
-[.] Create cart paje
+[$] Create cart paje
     -order summary section
     -empty cart section
+[$]Add to cart functionality
+    -connect to mongo db
+    -ues connect-mongo for session store
+        -dependancies
+            -mongoose, express-session, connect-mongo, dotenv
+    -axios to send ajax request
+    -install notifiaction library npm i noty https://ned.im/noty/#/
 [.] Create Order controller and link it in server.js
 [.] Create Order view with table for customer and admin
 [.] Create Order single page with status
